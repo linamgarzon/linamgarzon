@@ -1,4 +1,5 @@
 ### Hi, I'm Lina Garzón 💻🧑‍💻
+<img align="right" width="120" height="120" src="![banner](https://user-images.githubusercontent.com/118136883/230512986-45a58644-fc06-4198-8dea-3fe215ce2a99.png)">
    ![banner](https://user-images.githubusercontent.com/118136883/230512986-45a58644-fc06-4198-8dea-3fe215ce2a99.png)
 
 <!--
