@@ -13,6 +13,7 @@ Hello community, My name is Lina Marcela Garzón Romero, I'm 23 years old, and I
 You can find me 🌎:
 - [Linkerdin](https://www.linkedin.com/in/linamarcelagarzon/)
 - [Instagram](https://www.instagram.com/linaagarzon/)
+- [Portafolio](https://linamgarzon.github.io/Portafolio/portafolio)
 <!--
 **linamgarzon/linamgarzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
