@@ -7,6 +7,9 @@
      tools: [React, Node],
  }
 ```
+You can find me 🌎:
+- [Linkerdin](https://www.linkedin.com/in/linamarcelagarzon/)
+- [Instagram](https://www.instagram.com/linaagarzon/)
 <!--
 **linamgarzon/linamgarzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
