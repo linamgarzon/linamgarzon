@@ -2,7 +2,7 @@
 
  ![banner](https://user-images.githubusercontent.com/118136883/230512986-45a58644-fc06-4198-8dea-3fe215ce2a99.png)
  
-Hello community, My name is Lina Marcela Garzón Romero, I'm 23 years old, and I'm proudly Colombian 🇨🇴 🌳 . I recently graduated in Electronic Engineering 🔌 . I'm currently learning about the world of programming. I'm an animal lover, and I have four beautiful dogs 🐶 and a lovely cat 🐱.
+Hello community, My name is Lina Marcela Garzón Romero, I'm 23 years old, and I'm proudly Colombian 🌳 . I recently graduated in Electronic Engineering 🔌 . I'm currently learning about the world of programming. I'm an animal lover, and I have four beautiful dogs 🐶 and a lovely cat 🐱.
 
  ```js
  const LinaGarzón = {
@@ -14,6 +14,7 @@ You can find me 🌎:
 - [Linkerdin](https://www.linkedin.com/in/linamarcelagarzon/)
 - [Instagram](https://www.instagram.com/linaagarzon/)
 - [Portafolio](https://linamgarzon.github.io/Portafolio/portafolio)
+- [CV](https://drive.google.com/file/d/1bQlyfxpiozHddWzLuPbS8V7513SXpDtk/view?usp=sharing)
 <!--
 **linamgarzon/linamgarzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
